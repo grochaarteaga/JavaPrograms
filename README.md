@@ -1,2 +1,2 @@
-# JavaPrograms
-Java Programs to learn
+# JavaScriptPrograms
+JS to learn
